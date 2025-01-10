@@ -1,2 +1,1 @@
-# React-Projects
-Some projects made by an indie dev
+Just Builiding some Projects here and there !
